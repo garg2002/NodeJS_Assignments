@@ -1,0 +1,21 @@
+
+
+{
+  
+  "name": "make-json",
+  "version": "1.0.0",
+  "description": "make package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Satyam Garg",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "typescript": "^5.1.6"
+  }
+}
